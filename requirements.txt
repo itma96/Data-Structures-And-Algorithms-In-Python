@@ -1,0 +1,4 @@
+# Editable install with no version control (solutions==1.0)
+-e .
+
+lark==1.0.0
